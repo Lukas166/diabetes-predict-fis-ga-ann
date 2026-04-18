@@ -1,5 +1,7 @@
 # Panduan Penggunaan Aplikasi
 
+Anda bisa menjalankan aplikasi yang telah kami buat dan deploy melalui URL berikut: https://prediksi-diabet.streamlit.app/
+
 Dokumen ini menjelaskan cara menjalankan dan menguji aplikasi web Streamlit untuk prediksi risiko diabetes berbasis perbandingan tiga pendekatan:
 - FIS Manual
 - FIS + Genetic Algorithm (GA)
